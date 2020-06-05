@@ -7,7 +7,7 @@ $bd_config = array(
 	'usuario'		=> 'root',
 	'pass'			=> ''
 );
-// CONFIGURAMOS LA PAGINA
+// CONFIGURACION DE LA PAGINA
 $blog_config = array(
 	'post_por_pagina'	=> '2',
 	'carpeta_imagenes'	=> 'images/'
